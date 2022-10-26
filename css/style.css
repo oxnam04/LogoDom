@@ -1,0 +1,156 @@
+#footer {
+    background: #1F1E3D;
+    height: 338px;
+    margin: 100px 0;
+}
+
+.menu a {
+
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 50px -60px 0 -900px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.www {
+    margin: 0 0 0 800px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.logoDom {
+    text-align: center;
+}
+.lineTwo{
+    text-align: center;
+    width: 1296px;
+    height: 0;
+    border: 1px solid #DDAF2A;
+    margin: 0 90px;
+}
+
+.instagram{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 0 0 -800px;
+}
+.instagram svg{
+    margin: 40px -800px;
+}
+.project{
+    width: 400px;
+}
+.unitBtn button{
+    margin: 15px 0 0 1220px;
+    width: 228px;
+    height: 39px;
+    background: #DDAF2A;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+.cart{
+    position: absolute;
+    width: 220px;
+    height: 150px;
+    margin: 30px 0 0 400px;
+}
+.chui{
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    margin: 70px -1330px 0 0;
+}
+.footerNum{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    margin: 30px -1900px 0 0;
+
+}
+.footerNum a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 10px 0 10px;
+}
+.kitox img {
+    position: absolute;
+    margin: 170px 500px;
+}
+
+.kitox h1 {
+    margin: 50px 1200px;
+    font-size: 40px;
+}
+
+.kitox h3 {
+    margin: 0 0 0 900px;
+    color: #8A7F41;
+}
+
+.imageKitox {
+    position: absolute;
+    margin: 50px 50px;
+}
+
+.image-kitox {
+    margin: 50px 0;
+}
+
+.Rectangle {
+    position: absolute;
+    margin: 200px 0 0 999px;
+}
+
+.send input {
+    position: absolute;
+    color: #FFFFFF;
+    width: 401px;
+    height: 99px;
+    font-size: 15px;
+    background: #7A7D85;
+    border: 1px solid #DDAF2A;
+    border-radius: 10px;
+    margin: 300px 0 0 1030px;
+
+}
+
+.send h2 {
+    position: absolute;
+    margin: 250px 0 0 1110px;
+    color: #FFFFFF;
+}
+
+.stars {
+    position: absolute;
+    margin: 420px 0 0 1050px;
+}
+
+.button {
+    position: absolute;
+    width: 184px;
+    height: 28px;
+    border-radius: 30px;
+    background: #DDAF2A;
+    border: none;
+    margin: 480px 0 0 1150px;
+}
+
+.slide {
+    margin: 650px 310px;
+}
+
+.title {
+    margin: -679px 0 0 -800px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 800px 0;
+}
